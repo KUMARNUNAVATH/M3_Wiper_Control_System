@@ -1,5 +1,5 @@
 # Behavior Diagrams
  
- ## Flow chart
+ ## 1.Flow chart
  
- ## Data Flow Diagram
+ ## 2.Data Flow Diagram
