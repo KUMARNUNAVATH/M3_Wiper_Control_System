@@ -27,7 +27,7 @@ In this project, there were two innovations reviewed as the literature review. T
  2. The cost of overall system increases as additional components are needed along with rain sensor.
  3. In order to avoid false detection of rain, it requires rain sensors to take decision after few minutes.
 
-# 3.4W & H (WHO,WHAT,WHEN,WHERE,HOW)
+# 3. 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
  
  ## WHO:
    * A wiper speed control system for an automotive wiper *controls the operational speed of a wiper in accordance with rain conditions*
