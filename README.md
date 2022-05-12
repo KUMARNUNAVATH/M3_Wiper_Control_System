@@ -17,3 +17,6 @@ Wiper is ON: Initially, the wiper is off. On pressing the user input, Blue, Gree
  
   ![STM32 trun OFF](https://user-images.githubusercontent.com/101395036/167905758-da67a99f-89f9-4507-8d52-5a76221d1ad0.png)
 
+## code quality 
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/580f6fc22d804e9aa29b4cfab0594707)](https://www.codacy.com/gh/KUMARNUNAVATH/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KUMARNUNAVATH/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+ 
