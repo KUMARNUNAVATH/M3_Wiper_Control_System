@@ -29,15 +29,15 @@ In this project, there were two innovations reviewed as the literature review. T
 
 # 3. 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
  
- ## WHO:
+ ## WHO
    * A wiper speed control system for an automotive wiper *controls the operational speed of a wiper in accordance with rain conditions*
- ## WHAT:
+ ## WHAT
    * High reliability.
- ## WHEN:
+ ## WHEN
    * When it rains, the wiper control system is used
- ## WHERE:
+ ## WHERE
    * In general, car wipers are controlled by the stalk on the right side of the steering wheel.
- ## HOW:
+ ## HOW
    * You can adjust the speed of the car wiper system according to the rainfall
 # 4.SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
 
