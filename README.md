@@ -11,7 +11,7 @@ Wiper is ON: Initially, the wiper is off. On pressing the user input, Blue, Gree
  
 2. On pressing the user input Alternating between three different frequency levels with 1, 4 and 8 Hz with every key press
 
-![STM32F on 3LEDs](https://user-images.githubusercontent.com/101395036/168050686-654030f3-2c2a-47de-8d7e-8d2b179575b1.png)
+![STM32 on](https://user-images.githubusercontent.com/101395036/168284959-18334644-fc19-42df-98fd-21047f04d774.png)
 
 3. user button is pressed and held for 2 seconds, the red LED is off
  
