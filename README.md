@@ -23,3 +23,5 @@ Wiper is ON: Initially, the wiper is off. On pressing the user input, Blue, Gree
 ## Codiga ![code Quality Score](https://api.codiga.io/project/33315/score/svg)
  
 ## code Grade  ![code Grade](https://api.codiga.io/project/33315/status/svg)
+
+## Build on linux [![Build-Linux](https://github.com/KUMARNUNAVATH/M3_Wiper_Control_System/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M3_Wiper_Control_System/actions/workflows/Build%20on%20linux.yml)
